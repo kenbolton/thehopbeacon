@@ -24,6 +24,13 @@ body {
 	z-index: 9999;
 }
 
+.brand {
+  background: url(/static/img/thehoplogo.png) no-repeat;
+  width:168px;
+  height:73px;
+  text-indent: -9999px;
+  white-space: nowrap;
+}
 #leftBar {
 	background: url(http://www.beaconnected.com/hop/imgs/block.jpg) repeat;
 	float: left;
